@@ -1,0 +1,62 @@
+header{
+color: hsl(36, 95%, 14%);
+background-color: rgb(248, 241, 231);
+padding: 20px;
+justify-content: center;
+display: flex;
+font-size: 32px;
+}
+
+body{
+margin-inline: 200px;
+padding: 1%;
+background-color: rgba(255, 255, 240, 0.852);
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+
+}
+
+.navegacion{
+    display: flex;
+    gap: 30px;
+    font-size: large;
+    font-style: oblique;
+}
+
+li{
+    list-style:none;
+}
+
+a:hover{
+    font-size:larger;
+    color: rgb(241, 99, 55);
+}
+
+a{
+    text-decoration:darkmagenta;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+
+}
+
+footer{
+    color: rgb(95, 61, 61);
+    background-color: rgb(245, 234, 220);
+    background-position: 100px;
+    padding: 30px;
+    text-align: center;
+}
+.Cualidades{
+    
+    
+}
+.clasica{
+    display: flex;
+    flex-direction: column;
+}
